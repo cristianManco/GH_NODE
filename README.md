@@ -1,9 +1,7 @@
-# descripcion del proyecto
 
+## lista de tablas  de la base de datos:
 
-# lista de tablas  de la base de datos:
-
-# Crear las tablas base sin claves foráneas:
+### Crear las tablas :
 ```template
 
 CEBE
